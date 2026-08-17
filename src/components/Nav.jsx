@@ -15,7 +15,7 @@ export default function Nav({ activeGroup, isPlaying, onToggleMusic }) {
           onClick={scrollToGroup('hero')}
           className="text-sm font-semibold tracking-[0.2em] text-white/90"
         >
-          CNCL
+          SNCL
         </a>
 
         <ul className="flex flex-wrap items-center gap-1 sm:gap-2">
