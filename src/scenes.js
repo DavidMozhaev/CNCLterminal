@@ -13,7 +13,7 @@ export const scenes = [
     group: 'hero',
     open: true,
     blocks: [
-      { kicker: 'CNCL', title: 'somewhere outside' },
+      { kicker: 'SNCL', title: 'somewhere outside' },
       { body: ['No maps. No deadlines. Just the next bend in the road.'] },
     ],
   },
@@ -127,7 +127,7 @@ export const scenes = [
     group: 'token',
     open: true,
     kicker: 'Token',
-    title: '$CNCL',
+    title: '$SNCL',
     body: 'No chart to babysit — just a way for fellow travelers to carry a piece of the trip with them.',
     tokenCA: '0x1f600a9de857cf5979b2e11323f18690ab3b7300',
     dexscreenerUrl:
